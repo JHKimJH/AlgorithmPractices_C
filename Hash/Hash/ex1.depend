@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572850730 source:c:\users\김정현\desktop\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572851042 source:c:\users\김정현\desktop\2학기\알고리즘\11.4\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
